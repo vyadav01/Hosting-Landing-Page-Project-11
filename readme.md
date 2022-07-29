@@ -7,7 +7,7 @@ This project is a part of the **Full Stack Javascript** course by ineuron.ai. It
 
 ### **What I have learned ?**
 
-In this project, I have learned about **structuring the html page, use of classes and id's**.
+In this project, I have learned about **structuring the html page, use of classes and id's, hover effects, and CSS grid**.
 
 ### **Time spent to finish it.**
 
@@ -16,11 +16,11 @@ It took me 8 hours to complete this project.( it was lengthy not difficult. )
 **Note :** This project is not optimized for mobile yet.
 
 
-**[Live Project's netlify link](https://interior-design-landing-page-project-10.netlify.app/ "Project link")**
+**[Live Project's netlify link](https://hosting-landing-page-project-11.netlify.app/ "Project link")**
 
 
 
-[![Project ScreenShot](./css%20project_11%20done.png)](https://interior-design-landing-page-project-10.netlify.app/ "Project link")
+[![Project ScreenShot](./css%20project_11%20done.png)](https://hosting-landing-page-project-11.netlify.app/ "Project link")
 
 
-[![Badge](https://img.shields.io/badge/Project__11-Hosting%20Landing%20Page-yellow)](https://interior-design-landing-page-project-10.netlify.app/ "Project link")
+[![Badge](https://img.shields.io/badge/Project__11-Hosting%20Landing%20Page-yellow)](https://hosting-landing-page-project-11.netlify.app/ "Project link")
